@@ -1,0 +1,14 @@
+1 - cat countries.txt
+2 - less countries.txt
+3 - less countries.txt /Zambia
+4 - grep Brazil countries.txt
+5 - grep -i brazil countries.txt
+6 - touch phrases.txt
+7 - grep -v fox phrases.txt
+8 - wc -w phrases.txt
+9 - wc -l phrases.txt
+10 - touch empty.tbt empty.pdf
+11 - ls
+12 - ls *.txt
+13 - ls *.t*t
+14 - man ls
